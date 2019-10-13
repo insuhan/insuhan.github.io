@@ -19,9 +19,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: asdf
     github:  thelehhman
     linkedIn: in/thelehhman
+    googlescholar: thelehhman
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll

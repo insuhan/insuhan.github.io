@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "About Me"
+date:   2019-10-12 19:53:36 +0530
+category: intro
+---
+
+I am currently a Ph.D. student in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  
+
+My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is October 2019).
+
+## Contact
+Email : insu.han at kaist.ac.kr <br/>
+Phone : +82 42 350 7632
+
+[Jinwoo Shin]: http://alinlab.kaist.ac.kr/shin.html
+[CV]: https://www.dropbox.com/s/1n6iunuus8yx6ly/insuhan_resume.pdf?dl=0
+
+<br/>
+## Research experiences
+-----
+
+[Summer 2019] Research intern at Google New York City with [Jennifer Gillenwater] <br/>
+[Spring 2018] Visting student at Tel Aviv University with [Haim Avron]
+
+
+[Jennifer Gillenwater]: http://http://jgillenw.com/
+[Haim Avron]: http://www.math.tau.ac.il/~haimav/
+
+<br/>
+## Publications
+-----
+
+**MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
+<U>Insu Han</U> and Jennifer Gillenwater <br/>
+Submitted
+<br/>
+
+**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** [[arXiv][1]]<br/>
+<U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
+Submitted
+<br/>
+
+**Stochastic Chebyshev Gradient Descent for Spectral Optimization** [[paper][2]]<br/>
+<U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
+Neural Information Processing Systems (NeurIPS) 2018, Spotlight Presentation (168/4856=3.5%)
+
+**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][3]]<br/>
+<U>Insu Han</U>, Prabhanjan Kambadur, Kyoungsoo Park and Jinwoo Shin <br/>
+International Conference on Machine Learning (ICML) 2017
+
+**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** [[paper][4]]<br/>
+<U>Insu Han</U>, Dmitry Malioutov, Haim Avron and Jinwoo Shin <br/>
+SIAM Journal on Scientific Computing (SISC) 2017
+
+**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][5]]<br/>
+<U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
+International Conference on Machine Learning (ICML) 2015
+
+[1]: https://arxiv.org/pdf/1905.11616.pdf
+[2]: https://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization.pdf
+[3]: http://proceedings.mlr.press/v70/han17a/han17a.pdf
+[4]: https://epubs.siam.org/doi/pdf/10.1137/16M1078148
+[5]: http://proceedings.mlr.press/v37/hana15.pdf
