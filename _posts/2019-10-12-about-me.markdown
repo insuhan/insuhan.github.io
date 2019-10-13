@@ -45,7 +45,7 @@ Submitted
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 Neural Information Processing Systems (NeurIPS) 2018, Spotlight Presentation (168/4856=3.5%)
 
-**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][3]]<br/>
+**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][3]][[code][7]]<br/>
 <U>Insu Han</U>, Prabhanjan Kambadur, Kyoungsoo Park and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2017
 
@@ -53,7 +53,7 @@ International Conference on Machine Learning (ICML) 2017
 <U>Insu Han</U>, Dmitry Malioutov, Haim Avron and Jinwoo Shin <br/>
 SIAM Journal on Scientific Computing (SISC) 2017
 
-**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][5]]<br/>
+**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][5]][[code][6]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
@@ -62,3 +62,5 @@ International Conference on Machine Learning (ICML) 2015
 [3]: http://proceedings.mlr.press/v70/han17a/han17a.pdf
 [4]: https://epubs.siam.org/doi/pdf/10.1137/16M1078148
 [5]: http://proceedings.mlr.press/v37/hana15.pdf
+[6]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
+[7]: https://github.com/insuhan/fastdppmap
