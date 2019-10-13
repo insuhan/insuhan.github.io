@@ -61,10 +61,6 @@
 .icon-gplus-squared:before {
   content: '\f0d4'; }
 
-.ai-google-scholar-square {
-  margin-left: .3em;
-}
-
 /* '' */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -247,7 +243,7 @@ td,
 th {
   padding: 0; }
 
-/* Solarized Light
+/* Solarized Light 
 For use with Jekyll and Pygments
 http://ethanschoonover.com/solarized
 SOLARIZED HEX      ROLE
@@ -555,7 +551,7 @@ pre.highlight, code {
 
 body {
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2em;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -682,7 +678,7 @@ main {
   padding-left: 40px; }
 
 .post {
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 300;
   color: #222;
   line-height: 1.9em; }
@@ -701,3 +697,6 @@ main {
   letter-spacing: 0.5px;
   padding-bottom: 10px;
   font-weight: normal; }
+
+.ai-google-scholar-square {
+  margin-left: .3em; }
