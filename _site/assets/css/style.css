@@ -61,9 +61,8 @@
 .icon-gplus-squared:before {
   content: '\f0d4'; }
 
-.ai-google-scholar-square{
+.ai-google-scholar-square {
   margin-left: .3em;
-  margin-right: .2em;
 }
 
 /* '' */
@@ -556,7 +555,7 @@ pre.highlight, code {
 
 body {
   font-family: 'Raleway', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.2em;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -683,8 +682,7 @@ main {
   padding-left: 40px; }
 
 .post {
-  /* font-family: 'Merriweather', sans-serif; */
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   font-weight: 300;
   color: #222;
   line-height: 1.9em; }
