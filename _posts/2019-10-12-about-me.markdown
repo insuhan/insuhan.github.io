@@ -5,7 +5,7 @@ date:   2019-10-12 19:53:36 +0530
 category: intro
 ---
 
-I am currently a Ph.D. student in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  
+I am a thrid-year PhD student in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  
 
 My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is October 2019).
 
@@ -36,31 +36,34 @@ Phone : +82 42 350 7632
 Submitted
 <br/>
 
-**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** [[arXiv][1]]<br/>
+**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** [[paper][poly_paper]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 Submitted
 <br/>
 
-**Stochastic Chebyshev Gradient Descent for Spectral Optimization** [[paper][2]]<br/>
+**Stochastic Chebyshev Gradient Descent for Spectral Optimization** [[paper][specopt_paper]][[poster][specopt_poster]][[video][specopt_video]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 Neural Information Processing Systems (NeurIPS) 2018, Spotlight Presentation (168/4856=3.5%)
 
-**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][3]][[code][7]]<br/>
+**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][fastdpp_paper]][[code][fastdpp_code]][[video][fastdpp_video]]<br/>
 <U>Insu Han</U>, Prabhanjan Kambadur, Kyoungsoo Park and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2017
 
-**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** [[paper][4]]<br/>
+**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** [[paper][specsum_paper]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, Haim Avron and Jinwoo Shin <br/>
 SIAM Journal on Scientific Computing (SISC) 2017
 
-**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][5]][[code][6]]<br/>
+**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][logdet_paper]][[code][logdet_code]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
-[1]: https://arxiv.org/pdf/1905.11616.pdf
-[2]: https://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization.pdf
-[3]: http://proceedings.mlr.press/v70/han17a/han17a.pdf
-[4]: https://epubs.siam.org/doi/pdf/10.1137/16M1078148
-[5]: http://proceedings.mlr.press/v37/hana15.pdf
-[6]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
-[7]: https://github.com/insuhan/fastdppmap
+[poly_paper]: https://arxiv.org/pdf/1905.11616.pdf
+[specopt_paper]: https://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization.pdf
+[specopt_poster]: http://alinlab.kaist.ac.kr/resource/poster_nips18_specopt.pdf
+[specopt_video]: https://www.youtube.com/watch?v=0Sx9G3-fOwU&feature=youtu.be
+[fastdpp_paper]: http://proceedings.mlr.press/v70/han17a/han17a.pdf
+[fastdpp_code]: https://github.com/insuhan/fastdppmap
+[fastdpp_video]: https://vimeo.com/240776466
+[specsum_paper]: https://epubs.siam.org/doi/pdf/10.1137/16M1078148
+[logdet_paper]: http://proceedings.mlr.press/v37/hana15.pdf
+[logdet_code]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
