@@ -36,24 +36,29 @@ Phone : +82 42 350 7632
 Submitted
 <br/>
 
-**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** [[paper][poly_paper]]<br/>
+**Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** <br/>
+[[paper][poly_paper]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 Submitted
 <br/>
 
-**Stochastic Chebyshev Gradient Descent for Spectral Optimization** [[paper][specopt_paper]][[poster][specopt_poster]][[video][specopt_video]]<br/>
+**Stochastic Chebyshev Gradient Descent for Spectral Optimization** <br/>
+[[paper][specopt_paper]][[poster][specopt_poster]][[video][specopt_video]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 Neural Information Processing Systems (NeurIPS) 2018, Spotlight Presentation (168/4856=3.5%)
 
-**Faster Greedy MAP Inference for Determinantal Point Processes** [[paper][fastdpp_paper]][[code][fastdpp_code]][[video][fastdpp_video]]<br/>
+**Faster Greedy MAP Inference for Determinantal Point Processes** <br/>
+[[paper][fastdpp_paper]][[code][fastdpp_code]][[video][fastdpp_video]]<br/>
 <U>Insu Han</U>, Prabhanjan Kambadur, Kyoungsoo Park and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2017
 
-**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** [[paper][specsum_paper]]<br/>
+**Approximating Spectral Sums of Large-scale Matrices using Stochastic Chebyshev Approximations** <br/>
+[[paper][specsum_paper]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, Haim Avron and Jinwoo Shin <br/>
 SIAM Journal on Scientific Computing (SISC) 2017
 
-**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** [[paper][logdet_paper]][[code][logdet_code]]<br/>
+**Large-scale Log-determinant Computation through Stochastic Chebyshev Expansions** <br/>
+[[paper][logdet_paper]][[code][logdet_code]][[video][logdet_video]]<br/>
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
@@ -67,3 +72,4 @@ International Conference on Machine Learning (ICML) 2015
 [specsum_paper]: https://epubs.siam.org/doi/pdf/10.1137/16M1078148
 [logdet_paper]: http://proceedings.mlr.press/v37/hana15.pdf
 [logdet_code]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
+[logdet_video]: http://videolectures.net/icml2015_han_log_determinant_computation/
