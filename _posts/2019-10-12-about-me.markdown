@@ -41,7 +41,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
 <U>Insu Han</U> and Jennifer Gillenwater <br/>
-Submitted
+Will be appeared in International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
 <br/>
 
 **Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** <br/>
