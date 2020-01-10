@@ -40,6 +40,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
+[[paper][fastdppmap_aistats20]]<br/>
 <U>Insu Han</U> and Jennifer Gillenwater <br/>
 Will be appeared in International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
 <br/>
@@ -81,3 +82,4 @@ International Conference on Machine Learning (ICML) 2015
 [logdet_paper]: http://proceedings.mlr.press/v37/hana15.pdf
 [logdet_code]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
 [logdet_video]: http://videolectures.net/icml2015_han_log_determinant_computation/
+[fastdppmap_aistats20]: http://alinlab.kaist.ac.kr/resource/fastdppmap_aistats2020.pdf
