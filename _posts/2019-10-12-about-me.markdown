@@ -39,16 +39,16 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
-**MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
-[[paper][fastdppmap_aistats20]]<br/>
-<U>Insu Han</U> and Jennifer Gillenwater <br/>
-Will be appeared in International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
-<br/>
-
 **Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** <br/>
 [[paper][poly_paper]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
-Submitted
+International Conference on Machine Learning (ICML) 2020
+<br/>
+
+**MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
+[[paper][fastdppmap_aistats20]]<br/>
+<U>Insu Han</U> and Jennifer Gillenwater <br/>
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
 <br/>
 
 **Stochastic Chebyshev Gradient Descent for Spectral Optimization** <br/>
