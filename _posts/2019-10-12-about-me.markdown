@@ -40,13 +40,13 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][ndpp_paper]]<br/>
+[[paper][ndpp_paper]][[code][ndpp_code]]<br/>
 Mike Gartrell, <U>Insu Han</U>, Elvis Dohmatob, Jennifer Gillenwater and Victor-Emmanuel Brunel <br/>
-Preprint
+International Conference on Learning Representations (ICLR) 2021, Oral Presentation (58/2997=1.8%)
 <br/>
 
 **Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix** <br/>
-[[paper][poly_paper]]<br/>
+[[paper][poly_paper]][[code][poly_code]]<br/>
 <U>Insu Han</U>, Haim Avron and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2020
 <br/>
@@ -77,7 +77,9 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[ndpp_code]: https://github.com/cgartrel/nonsymmetric-DPP-learning/tree/scalable
 [ndpp_paper]: https://arxiv.org/pdf/2006.09862.pdf
+[poly_code]: https://github.com/insuhan/polytensorsketch
 [poly_paper]: https://arxiv.org/pdf/1905.11616.pdf
 [specopt_paper]: https://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization.pdf
 [specopt_poster]: http://alinlab.kaist.ac.kr/resource/poster_nips18_specopt.pdf
