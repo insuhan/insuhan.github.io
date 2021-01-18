@@ -52,7 +52,7 @@ International Conference on Machine Learning (ICML) 2020
 <br/>
 
 **MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search** <br/>
-[[paper][fastdppmap_aistats20]]<br/>
+[[paper][fastdppmap_aistats20]][[code][dppmips_code]]<br/>
 <U>Insu Han</U> and Jennifer Gillenwater <br/>
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
 <br/>
@@ -77,10 +77,11 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[dppmips_code]: https://github.com/insuhan/dppmapmips
 [ndpp_code]: https://github.com/cgartrel/nonsymmetric-DPP-learning/tree/scalable
-[ndpp_paper]: https://arxiv.org/pdf/2006.09862.pdf
+[ndpp_paper]: https://openreview.net/forum?id=HajQFbx_yB
 [poly_code]: https://github.com/insuhan/polytensorsketch
-[poly_paper]: https://arxiv.org/pdf/1905.11616.pdf
+[poly_paper]: http://proceedings.mlr.press/v119/han20a/han20a.pdf
 [specopt_paper]: https://papers.nips.cc/paper/7968-stochastic-chebyshev-gradient-descent-for-spectral-optimization.pdf
 [specopt_poster]: http://alinlab.kaist.ac.kr/resource/poster_nips18_specopt.pdf
 [specopt_video]: https://www.youtube.com/watch?v=0Sx9G3-fOwU&feature=youtu.be
