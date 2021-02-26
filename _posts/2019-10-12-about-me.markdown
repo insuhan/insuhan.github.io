@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Me"
-date:   2019-10-12 19:53:36 +0530
+date:   2021-02-26 19:53:36 +0530
 category: intro
 ---
 
@@ -38,7 +38,8 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **Random Features for the Neural Tangent Kernel** <br/>
-<U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/> 2021, Under Review
+<U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
+Under Review, 2021
 <br/>
 
 **Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
