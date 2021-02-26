@@ -5,9 +5,7 @@ date:   2019-10-12 19:53:36 +0530
 category: intro
 ---
 
-I am a thrid-year PhD student in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  
-
-My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is October 2020).
+I am a PhD candidate in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is Feburary 2021).
 
 ## Contact
 Email : insu.han at kaist.ac.kr <br/>
@@ -38,6 +36,10 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 <br/>
 ## Publications
 -----
+
+**Random Features for the Neural Tangent Kernel** <br/>
+<U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/> 2021, Under Review
+<br/>
 
 **Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
 [[paper][ndpp_paper]][[code][ndpp_code]]<br/>
