@@ -9,15 +9,12 @@ I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Adva
 
 **I am on the 2020-2021 academic job market.**
 
-
 ## Contact
 Email : insu.han at kaist.ac.kr <br/>
 Phone : +82 42 350 7632
 
-
 [Jinwoo Shin]: http://alinlab.kaist.ac.kr/shin.html
 [CV]: https://www.dropbox.com/s/xgxu17r4ic0w089/cv.pdf?dl=0
-
 
 <br/>
 ## Research experiences
@@ -26,7 +23,6 @@ Phone : +82 42 350 7632
 [Summer 2019] Research intern at Google New York City with [Jennifer Gillenwater] <br/>
 [Spring 2018] Visting student at Tel Aviv University with [Haim Avron]
 
-
 [Jennifer Gillenwater]: http://jgillenw.com/
 [Haim Avron]: http://www.math.tau.ac.il/~haimav/
 
@@ -34,7 +30,6 @@ Phone : +82 42 350 7632
 ## Awards
 -----
 I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
-
 
 [Microsoft Research Asia Fellowship 2019]: https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/
 
