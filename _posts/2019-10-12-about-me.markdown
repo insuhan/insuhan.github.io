@@ -5,7 +5,10 @@ date:   2021-02-26 19:53:36 +0530
 category: intro
 ---
 
-I am a PhD candidate in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is Feburary 2021).
+I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV] (Last update is Feburary 2021).
+
+**I am on the 2020-2021 academic job market.**
+
 
 ## Contact
 Email : insu.han at kaist.ac.kr <br/>
