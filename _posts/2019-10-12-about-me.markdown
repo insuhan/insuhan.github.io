@@ -38,7 +38,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **Random Features for the Neural Tangent Kernel** <br/>
-[[paper][ntk_paper]]
+[[paper][ntk_paper]]<br/>
 <U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
 Preprint, 2021
 <br/>
