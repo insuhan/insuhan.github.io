@@ -38,8 +38,9 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **Random Features for the Neural Tangent Kernel** <br/>
+[[paper][ntk_paper]]
 <U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
-Under Review, 2021
+Preprint, 2021
 <br/>
 
 **Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
@@ -96,3 +97,4 @@ International Conference on Machine Learning (ICML) 2015
 [logdet_code]: http://alinlab.kaist.ac.kr/resource/logdet_code.zip
 [logdet_video]: http://videolectures.net/icml2015_han_log_determinant_computation/
 [fastdppmap_aistats20]: http://alinlab.kaist.ac.kr/resource/fastdppmap_aistats2020.pdf
+[ntk_paper]: https://arxiv.org/pdf/2104.01351.pdf
