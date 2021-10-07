@@ -39,7 +39,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
 [[paper][ntk_paper]]<br/>
 Amir Zandieh, <U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
-Preprint, 2021
+Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
 
 **Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes** <br/>
