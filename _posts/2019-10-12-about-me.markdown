@@ -36,8 +36,14 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**Scalable Sampling for Nonsymmetric Determinantal Point Processes** <br/>
+<U>Insu Han</U>, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, Amin Karbasi<br/>
+International Conference on Learning Representations (ICLR) 2022
+<br/>
+
+
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
-[[paper][ntk_paper]]<br/>
+[[paper][ntk_paper]][[code][ntk_rf_code]]<br/>
 Amir Zandieh, <U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
@@ -80,6 +86,7 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[ntk_rf_code]: https://github.com/insuhan/ntk-sketch-rf
 [dppmips_code]: https://github.com/insuhan/dppmapmips
 [ndpp_code]: https://github.com/cgartrel/nonsymmetric-DPP-learning/tree/scalable
 [ndpp_paper]: https://openreview.net/forum?id=HajQFbx_yB
