@@ -44,7 +44,7 @@ International Conference on Learning Representations (ICLR) 2022
 
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
 [[paper][ntk_paper]][[code][ntk_rf_code]]<br/>
-Amir Zandieh, <U>Insu Han</U>, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
+<U>Insu Han</U>, Amir Zandieh, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
 
