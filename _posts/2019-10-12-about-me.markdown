@@ -39,7 +39,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 **Scalable Sampling for Nonsymmetric Determinantal Point Processes** <br/>
 [[paper][ndpp_sampling_paper]][[code][ndpp_sampling_code]]<br/>
 <U>Insu Han</U>, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, Amin Karbasi<br/>
-International Conference on Learning Representations (ICLR) 2022
+International Conference on Learning Representations (ICLR) 2022, Spotlight
 <br/>
 
 
@@ -87,7 +87,7 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
-[ndpp_sampling_paper]: https://arxiv.org/pdf/2201.08417.pdf
+[ndpp_sampling_paper]: https://openreview.net/forum?id=BB4e8Atc1eR
 [ndpp_sampling_code]: https://github.com/insuhan/nonsymmetric-dpp-sampling
 [ntk_rf_code]: https://github.com/insuhan/ntk-sketch-rf
 [dppmips_code]: https://github.com/insuhan/dppmapmips
