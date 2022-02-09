@@ -36,6 +36,12 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**Random Gegenbauer Features for Scalable Kernel Methods** <br/>
+[[paper][gegen_rf_paper]]<br/>
+<U>Insu Han</U>, Amir Zandieh, Haim Avron<br/>
+Preprint
+<br/>
+
 **Scalable Sampling for Nonsymmetric Determinantal Point Processes** <br/>
 [[paper][ndpp_sampling_paper]][[code][ndpp_sampling_code]]<br/>
 <U>Insu Han</U>, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, Amin Karbasi<br/>
@@ -87,6 +93,7 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[gegen_rf_paper]: https://arxiv.org/pdf/2202.03474.pdf
 [ndpp_sampling_paper]: https://openreview.net/forum?id=BB4e8Atc1eR
 [ndpp_sampling_code]: https://github.com/insuhan/nonsymmetric-dpp-sampling
 [ntk_rf_code]: https://github.com/insuhan/ntk-sketch-rf
