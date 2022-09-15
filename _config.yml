@@ -1,12 +1,11 @@
-title: Insu Han, Research Page
+title: Insu Han's Homepage
 author: Insu Han
 email: insu.han@yale.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  Research page of Insu Han.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
-future: true
-timezone: America/New_York
-encoding: UTF-8
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -17,26 +16,29 @@ plainwhite:
   tagline: Yale University
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-
+  search: false # set to true to enable searchbar
+  dark_mode: true # set to true to add dark mode toggle
+  portfolio_image: "assets/InsuHan.jpg" # the path from the base directory of the site to the image to display (no / at the start)
+  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  condensed_mobile:
+    #- home
+    - page
+    - post
   # generate social links in footer
   social_links:
-    twitter: asdf
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    googlescholar: thelehhman
-    rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
+    twitter: samarsault
+    github:  samarsault
+    linkedIn: in/samarsault
+    #dribbble: jekyll
+    #flickr:   jekyll
+    #instagram: jekyll
+    #pinterest: jekyll
+    #youtube: jekyll
+    #facebook: jekyll
+    #soundcloud: jekyll
+    #telegram: jekyll
+    #gitlab: jekyll
+    #email: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -56,9 +58,3 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-remote_theme: samarsault/plainwhite-jekyll
-
-
-url	: "https://insuhan.github.io"
-baseurl	: ""
