@@ -57,7 +57,8 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-remote_theme : thelehhman/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
+
 
 url	: "https://insuhan.github.io"
 baseurl	: ""
