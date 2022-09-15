@@ -36,7 +36,11 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
-**TEST**
+**TEST** <br/>
+[[paper][gegen_recon_paper]]<br/>
+Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
+Under review
+<br/>
 
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
 [[paper][gegen_recon_paper]]<br/>
