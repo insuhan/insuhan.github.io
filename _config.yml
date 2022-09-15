@@ -26,9 +26,10 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
+    # twitter: samarsault
+    github:  insuhan
     linkedIn: in/samarsault
+    googlescholar: insuhan
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -52,9 +53,12 @@ plainwhite:
 #header_pages:
 # - about.md
 
-# Build settings
-theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+remote_theme: samarsault/plainwhite-jekyll
+
+url	: "https://insuhan.github.io"
+baseurl	: ""
