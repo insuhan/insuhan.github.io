@@ -2,8 +2,10 @@ title: Insu Han, Research Page
 author: Insu Han
 email: insu.han@yale.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  Research pages of Insu Han.
+  Research page of Insu Han.
 show_excerpts: true # set to true to show excerpts on the homepage
+future: true
+timezone: America/New_York
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
