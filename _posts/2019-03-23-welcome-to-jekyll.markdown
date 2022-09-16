@@ -34,7 +34,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **Fast Neural Kernel Embeddings for General Activations** <br/>
-[[paper][fast_neural_kernel_paper]][[code][fast_neural_kernel_code]]<br/>
+[[paper][fast_neural_kernel_paper]][[code][fast_neural_kernel_code], also implemented in [Neural Tangents] library]<br/>
 <U>Insu Han</U>, Amin Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
 To be appeared in Advances in Neural Information Processing Systems (NeurIPS) 2022
 <br/>
@@ -46,7 +46,7 @@ Under review
 <br/>
 
 **Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][kndpp_mcmc_sampling_paper]][[code][kndpp_mcmc_sampling_code]]
+[[paper][kndpp_mcmc_sampling_paper]][[code][kndpp_mcmc_sampling_code]] <br/>
 <U>Insu Han</U>, Mike Gartrell, Elvis Dohmatob, Amin Karbasi<br/>
 International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
 <br/>
@@ -108,6 +108,7 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[Neural Tangents]: https://github.com/google/neural-tangents
 [kndpp_mcmc_sampling_paper]:https://arxiv.org/pdf/2207.00486.pdf
 [kndpp_mcmc_sampling_code]:https://github.com/insuhan/ndpp-mcmc-sampling
 [fast_neural_kernel_paper]:https://arxiv.org/pdf/2209.04121.pdf
