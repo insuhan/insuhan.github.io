@@ -7,7 +7,9 @@ categories: intro
 
 
 ## About Me
-I am a postdoc in the Department of Electrical Engineering at Yale University, working with Prof. [Amin Karbasi]. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. Here is my [CV].
+I am a postdoctoral research fellow in the Department of Electrical Engineering at Yale University, working with Prof. [Amin Karbasi]. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
+
+Here is my [CV] (Last update: Sep 2022).
 
 <br/>
 ## Contact
@@ -15,24 +17,17 @@ Email : insu.han at yale.edu <br/>
 
 [Amin Karbasi]: http://iid.yale.edu/
 [Jinwoo Shin]: http://alinlab.kaist.ac.kr/shin.html
-[CV]: https://www.dropbox.com/s/xgxu17r4ic0w089/cv.pdf?dl=0
+[CV]: https://www.dropbox.com/s/j8f7c1aa9o28asz/cv.pdf?dl=0
 
-<br/>
-## Research experiences
------
-
-[Summer 2019] Research intern at Google New York City with [Jennifer Gillenwater] <br/>
-[Spring 2018] Visting student at Tel Aviv University with [Haim Avron]
-
-[Jennifer Gillenwater]: http://jgillenw.com/
-[Haim Avron]: http://www.math.tau.ac.il/~haimav/
-
+<!-- 
 <br/>
 ## Awards
 -----
 I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
+-->
 
-[Microsoft Research Asia Fellowship 2019]: https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/
+[Microsoft Research Asia Fellowship 2019]: https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/ 
+
 
 <br/>
 ## Publications
@@ -139,3 +134,14 @@ International Conference on Machine Learning (ICML) 2015
 [logdet_video]: http://videolectures.net/icml2015_han_log_determinant_computation/
 [fastdppmap_aistats20]: http://alinlab.kaist.ac.kr/resource/fastdppmap_aistats2020.pdf
 [ntk_paper]: https://arxiv.org/pdf/2106.07880.pdf
+
+
+<br/>
+## Research experiences
+-----
+
+- **[Summer 2019]** Research intern at Google New York City with [Jennifer Gillenwater] <br/>
+- **[Spring 2018]** Visting student at Tel Aviv University with [Haim Avron] <br/>
+
+[Jennifer Gillenwater]: http://jgillenw.com/
+[Haim Avron]: http://www.math.tau.ac.il/~haimav/

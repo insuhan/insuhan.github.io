@@ -480,6 +480,8 @@ footer { display: none; }
 
 @media screen and (max-width: 768px) and (max-width: 480px) { footer.condensed { margin: 0 20px; } }
 
+.ai-google-scholar-square { margin-left: .3em; }
+
 .switch { position: relative; display: inline-block; width: 30px; height: 17px; }
 
 .switch input { opacity: 0; width: 0; height: 0; }
