@@ -32,10 +32,16 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 <br/>
 ## Publications
 -----
+**KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
+[[paper][kdeformer_paper]] <br/>
+Amir Zandieh, <U>Insu Han</U>, Majid Daliri, Amin Karbasi<br/>
+Under review
+<br/>
+
 
 **Fast Neural Kernel Embeddings for General Activations** <br/>
 [[paper][fast_neural_kernel_paper]][[code][fast_neural_kernel_code], also implemented in [Neural Tangents] library]<br/>
-<U>Insu Han</U>, Amin Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
+<U>Insu Han</U>, Amir Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
 To be appeared in Advances in Neural Information Processing Systems (NeurIPS) 2022
 <br/>
 
@@ -135,6 +141,7 @@ International Conference on Machine Learning (ICML) 2015
 [logdet_video]: http://videolectures.net/icml2015_han_log_determinant_computation/
 [fastdppmap_aistats20]: http://alinlab.kaist.ac.kr/resource/fastdppmap_aistats2020.pdf
 [ntk_paper]: https://arxiv.org/pdf/2106.07880.pdf
+[kdeformer_paper]: https://arxiv.org/pdf/2302.02451.pdf
 
 
 <br/>
