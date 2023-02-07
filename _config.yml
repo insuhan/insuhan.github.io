@@ -59,3 +59,4 @@ plugins:
 remote_theme: samarsault/plainwhite-jekyll
 
 url	: "https://insuhan.github.io"
+future: true
