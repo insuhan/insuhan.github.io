@@ -5,12 +5,12 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>http://143.248.53.177:4000</loc>
-	    <lastmod>2022-09-16T09:47:42+09:00</lastmod>
+            <loc>http://localhost:4000</loc>
+	    <lastmod>2023-02-07T12:54:04-05:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://143.248.53.177:4000/intro/2019/03/24/welcome-to-jekyll.html</loc>
-                <lastmod>2019-03-24T00:33:36+09:00</lastmod>
+                <loc>http://localhost:4000/intro/2019/03/23/welcome-to-jekyll.html</loc>
+                <lastmod>2019-03-23T11:33:36-04:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url></urlset>

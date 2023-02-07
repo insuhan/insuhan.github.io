@@ -32,6 +32,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 <br/>
 ## Publications
 -----
+
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
 [[paper][kdeformer_paper]] <br/>
 Amir Zandieh, <U>Insu Han</U>, Majid Daliri, Amin Karbasi<br/>
