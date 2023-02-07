@@ -43,7 +43,7 @@ Under review
 **Fast Neural Kernel Embeddings for General Activations** <br/>
 [[paper][fast_neural_kernel_paper]][[code][fast_neural_kernel_code], also implemented in [Neural Tangents] library]<br/>
 <U>Insu Han</U>, Amir Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
-To be appeared in Advances in Neural Information Processing Systems (NeurIPS) 2022
+Advances in Neural Information Processing Systems (NeurIPS) 2022
 <br/>
 
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
