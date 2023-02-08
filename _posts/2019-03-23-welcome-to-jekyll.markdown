@@ -34,45 +34,45 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
-[[paper][kdeformer_paper]] <br/>
+[[paper][kdeformer_paper]{:target="_blank"}] <br/>
 Amir Zandieh, <U>Insu Han</U>, Majid Daliri, Amin Karbasi<br/>
 Under review
 <br/>
 
 
 **Fast Neural Kernel Embeddings for General Activations** <br/>
-[[paper][fast_neural_kernel_paper]][[code][fast_neural_kernel_code], also implemented in [Neural Tangents] library]<br/>
+[[paper][fast_neural_kernel_paper]{:target="_blank"}][[code][fast_neural_kernel_code]{:target="_blank"}, also implemented in [Neural Tangents]{:target="_blank"} library]<br/>
 <U>Insu Han</U>, Amir Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2022
 <br/>
 
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
-[[paper][gegen_recon_paper]]<br/>
+[[paper][gegen_recon_paper]{:target="_blank"}]<br/>
 Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
 Under review
 <br/>
 
 **Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][kndpp_mcmc_sampling_paper]][[code][kndpp_mcmc_sampling_code]] <br/>
+[[paper][kndpp_mcmc_sampling_paper]{:target="_blank"}][[code][kndpp_mcmc_sampling_code]{:target="_blank"}] <br/>
 <U>Insu Han</U>, Mike Gartrell, Elvis Dohmatob, Amin Karbasi<br/>
 International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
 <br/>
 
 **Random Gegenbauer Features for Scalable Kernel Methods** <br/>
-[[paper][gegen_rf_paper]]<br/>
+[[paper][gegen_rf_paper]{:target="_blank"}]<br/>
 <U>Insu Han</U>, Amir Zandieh, Haim Avron<br/>
 International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
 <br/>
 
 **Scalable Sampling for Nonsymmetric Determinantal Point Processes** <br/>
-[[paper][ndpp_sampling_paper]][[code][ndpp_sampling_code]]<br/>
+[[paper][ndpp_sampling_paper]{:target="_blank"}][[code][ndpp_sampling_code]{:target="_blank"}]<br/>
 <U>Insu Han</U>, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, Amin Karbasi<br/>
 International Conference on Learning Representations (ICLR) 2022, Spotlight Presentation
 <br/>
 
 
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
-[[paper][ntk_paper]][[code][ntk_rf_code]]<br/>
+[[paper][ntk_paper]{:target="_blank"}][[code][ntk_rf_code]{:target="_blank"}]<br/>
 <U>Insu Han</U>, Amir Zandieh, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
