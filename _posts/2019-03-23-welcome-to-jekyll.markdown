@@ -7,7 +7,7 @@ categories: intro
 
 
 ## About Me
-I am a postdoctoral research fellow in the Department of Electrical Engineering at Yale University, working with Prof. [Amin Karbasi]. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
+I am an FDS Postdoctoral Fellow at Yale University. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
 
 Here is my [CV] (Last update: Jun 2023).
 
