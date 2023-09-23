@@ -34,6 +34,12 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
+[[paper][gegen_recon_paper]{:target="_blank"}]<br/>
+Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
+Advances in Neural Information Processing Systems (NeurIPS) 2022
+<br/>
+
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
 [[paper][kdeformer_paper]{:target="_blank"}] <br/>
 Amir Zandieh, <U>Insu Han</U>, Majid Daliri, Amin Karbasi<br/>
@@ -45,12 +51,6 @@ International Conference on Machine Learning (ICML) 2023
 [[paper][fast_neural_kernel_paper]{:target="_blank"}][[code][fast_neural_kernel_code]{:target="_blank"}, also implemented in [Neural Tangents]{:target="_blank"} library]<br/>
 <U>Insu Han</U>, Amir Zandieh, Jaehoon Lee, Roman Novak, Lechao Xiao, Amin Karbasi<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2022
-<br/>
-
-**Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
-[[paper][gegen_recon_paper]{:target="_blank"}]<br/>
-Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
-Under review
 <br/>
 
 **Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes** <br/>
