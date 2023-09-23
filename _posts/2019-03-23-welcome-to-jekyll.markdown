@@ -37,7 +37,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
 [[paper][gegen_recon_paper]{:target="_blank"}]<br/>
 Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
-Advances in Neural Information Processing Systems (NeurIPS) 2022
+Advances in Neural Information Processing Systems (NeurIPS) 2023
 <br/>
 
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
