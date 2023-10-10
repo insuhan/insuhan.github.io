@@ -34,6 +34,13 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+
+**HyperAttention: Long-context Attention in Near-Linear Time** <br/>
+[[paper][hyperattn_paper]{:target="_blank"}]<br/>
+(α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
+Under review
+<br/>
+
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
 [[paper][gegen_recon_paper]{:target="_blank"}]<br/>
 Amir Zandieh, <U>Insu Han</U>, Haim Avron<br/>
@@ -144,7 +151,7 @@ International Conference on Machine Learning (ICML) 2015
 [fastdppmap_aistats20]: http://alinlab.kaist.ac.kr/resource/fastdppmap_aistats2020.pdf
 [ntk_paper]: https://arxiv.org/pdf/2106.07880.pdf
 [kdeformer_paper]: https://arxiv.org/pdf/2302.02451.pdf
-
+[hyperattn_paper]: https://arxiv.org/pdf/2310.05869.pdf
 
 <br/>
 ## Research experiences
