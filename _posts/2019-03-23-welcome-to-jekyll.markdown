@@ -38,7 +38,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 **HyperAttention: Long-context Attention in Near-Linear Time** <br/>
 [[paper][hyperattn_paper]{:target="_blank"}]<br/>
 (α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
-Under review
+International Conference on Learning Representations (ICLR) 2024
 <br/>
 
 **Near Optimal Reconstruction of Spherical Harmonic Expansions** <br/>
