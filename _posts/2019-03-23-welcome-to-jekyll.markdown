@@ -35,6 +35,12 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 -----
 
 
+**SubGen: Token Generation in Sublinear Time and Memory** <br/>
+[[paper][subgen_paper]{:target="_blank"}]<br/>
+Amir Zandieh, <U>Insu Han</U>, Vahab Mirrokni, Amin Karbasi
+Under Review
+<br/>
+
 **HyperAttention: Long-context Attention in Near-Linear Time** <br/>
 [[paper][hyperattn_paper]{:target="_blank"}]<br/>
 (α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
@@ -123,6 +129,7 @@ SIAM Journal on Scientific Computing (SISC) 2017
 <U>Insu Han</U>, Dmitry Malioutov, and Jinwoo Shin <br/>
 International Conference on Machine Learning (ICML) 2015
 
+[subgen_paper]:https://arxiv.org/pdf/2402.06082.pdf
 [Neural Tangents]: https://github.com/google/neural-tangents
 [kndpp_mcmc_sampling_paper]:https://arxiv.org/pdf/2207.00486.pdf
 [kndpp_mcmc_sampling_code]:https://github.com/insuhan/ndpp-mcmc-sampling
