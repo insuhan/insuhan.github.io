@@ -7,7 +7,7 @@ categories: intro
 
 
 ## About Me
-I am an [FDS] Postdoctoral Fellow at Yale University. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I am advised by [Jinwoo Shin]. I recieved an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
+I am an [FDS] Postdoctoral Fellow at Yale University. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by [Jinwoo Shin]. I received an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
 
 Here is my [CV] (Last update: Jun 2023).
 
@@ -37,7 +37,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **SubGen: Token Generation in Sublinear Time and Memory** <br/>
 [[paper][subgen_paper]{:target="_blank"}]<br/>
-Amir Zandieh*, <ins>Insu Han</ins>*, Vahab Mirrokni, Amin Karbasi (*Equal contribution)<br/> 
+Amir Zandieh\*, <ins>Insu Han</ins>\*, Vahab Mirrokni, Amin Karbasi (\*Equal contribution)<br/> 
 Under Review
 <br/>
 
@@ -55,7 +55,7 @@ Advances in Neural Information Processing Systems (NeurIPS) 2023
 
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
 [[paper][kdeformer_paper]{:target="_blank"}] <br/>
-Amir Zandieh, <ins>Insu Han</ins>*, Majid Daliri*, Amin Karbasi (*Equal contribution)<br/>
+Amir Zandieh, <ins>Insu Han</ins>\*, Majid Daliri\*, Amin Karbasi (\*Equal contribution)<br/>
 International Conference on Machine Learning (ICML) 2023
 <br/>
 
@@ -74,7 +74,7 @@ International Conference on Machine Learning (ICML) 2022, Long Presentation (118
 
 **Random Gegenbauer Features for Scalable Kernel Methods** <br/>
 [[paper][gegen_rf_paper]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Amir Zandieh, Haim Avron<br/>
+<U>Insu Han</U>\*, Amir Zandieh\*, Haim Avron (\*Equal contribution)<br/>
 International Conference on Machine Learning (ICML) 2022, Long Presentation (118/5630=2%)
 <br/>
 
@@ -87,7 +87,7 @@ International Conference on Learning Representations (ICLR) 2022, Spotlight Pres
 
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
 [[paper][ntk_paper]{:target="_blank"}][[code][ntk_rf_code]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Amir Zandieh, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin<br/>
+Amir Zandieh\*, <U>Insu Han</U>\*, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin(\*Equal contribution)<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
 
