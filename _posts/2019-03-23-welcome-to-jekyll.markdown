@@ -37,7 +37,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **SubGen: Token Generation in Sublinear Time and Memory** <br/>
 [[paper][subgen_paper]{:target="_blank"}]<br/>
-Amir Zandieh*, <U>Insu Han*</U>, Vahab Mirrokni, Amin Karbasi (*Equal contribution)<br/> 
+Amir Zandieh*, <ins>Insu Han</ins>*, Vahab Mirrokni, Amin Karbasi (*Equal contribution)<br/> 
 Under Review
 <br/>
 
@@ -55,7 +55,7 @@ Advances in Neural Information Processing Systems (NeurIPS) 2023
 
 **KDEformer: Accelerating Transformers via Kernel Density Estimation** <br/>
 [[paper][kdeformer_paper]{:target="_blank"}] <br/>
-Amir Zandieh, <U>Insu Han*</U>, Majid Daliri*, Amin Karbasi (*Equal contribution)<br/>
+Amir Zandieh, <ins>Insu Han</ins>*, Majid Daliri*, Amin Karbasi (*Equal contribution)<br/>
 International Conference on Machine Learning (ICML) 2023
 <br/>
 
