@@ -13,7 +13,7 @@ Here is my [CV] (Last update: Jun 2023).
 
 <br/>
 ## Contact
-Email : insu.han at yale.edu <br/>
+Email : hawki1720@gmail.com <br/>
 
 [Firefly]: https://firefly.adobe.com/
 [FDS]: https://fds.yale.edu/
@@ -37,7 +37,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead** <br/>
 [[paper][gjl_paper]{:target="_blank"}]<br/>
-Amir Zandieh, Majid Daliri, <U>Insu Han</U>
+Amir Zandieh, Majid Daliri, <U>Insu Han</U> <br/>
 Under Review
 <br/>
 	
