@@ -7,7 +7,7 @@ categories: intro
 
 
 ## About Me
-I am an [FDS] Postdoctoral Fellow at Yale University. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by [Jinwoo Shin]. I received an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
+I am an Applied Scientist at Adobe [Firefly]. I was an [FDS] Postdoctoral Fellow at Yale University. Previously, I obtained my Ph.D. degree in the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), where I was advised by [Jinwoo Shin]. I received an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019].
 
 Here is my [CV] (Last update: Jun 2023).
 
@@ -15,6 +15,7 @@ Here is my [CV] (Last update: Jun 2023).
 ## Contact
 Email : insu.han at yale.edu <br/>
 
+[Firefly]: https://firefly.adobe.com/
 [FDS]: https://fds.yale.edu/
 [Amin Karbasi]: http://iid.yale.edu/
 [Jinwoo Shin]: http://alinlab.kaist.ac.kr/shin.html
@@ -34,6 +35,17 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead** <br/>
+[[paper][gjl_paper]{:target="_blank"}]<br/>
+Amir Zandieh, Majid Daliri, <U>Insu Han</U>
+Under Review
+<br/>
+	
+**Cell2Sentence: Teaching Large Language Models the Language of Biology** <br/>
+[[paper][cell2sen_paper]{:target="_blank"}]<br/>
+Daniel Levine, Syed A Rizvi, Sacha Lévy, Nazreen Pallikkavaliyaveetil, David Zhang, Xingyu Chen, Sina Ghadermarzi, Ruiming Wu, Zihe Zheng, Ivan Vrkic, Anna Zhong, Daphne Raskin,<U>Insu Han</U>, Antonio Henrique de Oliveira Fonseca, Josue Ortega Caro, Amin Karbasi, Rahul Madhav Dhodapkar, David van Dijk<br/>
+International Conference on Machine Learning (ICML) 2024
+<br/>
 
 **SubGen: Token Generation in Sublinear Time and Memory** <br/>
 [[paper][subgen_paper]{:target="_blank"}]<br/>
@@ -159,6 +171,8 @@ International Conference on Machine Learning (ICML) 2015
 [ntk_paper]: https://arxiv.org/pdf/2106.07880.pdf
 [kdeformer_paper]: https://arxiv.org/pdf/2302.02451.pdf
 [hyperattn_paper]: https://arxiv.org/pdf/2310.05869.pdf
+[cell2sen_paper]: https://openreview.net/pdf?id=EWt5wsEdvc
+[gjl_paper]: https://arxiv.org/pdf/2406.03482
 
 <br/>
 ## Research experiences
