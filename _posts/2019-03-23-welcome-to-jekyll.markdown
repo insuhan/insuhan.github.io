@@ -43,7 +43,7 @@ Under Review
 	
 **Cell2Sentence: Teaching Large Language Models the Language of Biology** <br/>
 [[paper][cell2sen_paper]{:target="_blank"}]<br/>
-Daniel Levine, Syed A Rizvi, Sacha Lévy, Nazreen Pallikkavaliyaveetil, David Zhang, Xingyu Chen, Sina Ghadermarzi, Ruiming Wu, Zihe Zheng, Ivan Vrkic, Anna Zhong, Daphne Raskin,<U>Insu Han</U>, Antonio Henrique de Oliveira Fonseca, Josue Ortega Caro, Amin Karbasi, Rahul Madhav Dhodapkar, David van Dijk<br/>
+Daniel Levine, Syed A Rizvi, Sacha Lévy, Nazreen Pallikkavaliyaveetil, David Zhang, Xingyu Chen, Sina Ghadermarzi, Ruiming Wu, Zihe Zheng, Ivan Vrkic, Anna Zhong, Daphne Raskin, <U>Insu Han</U>, Antonio Henrique de Oliveira Fonseca, Josue Ortega Caro, Amin Karbasi, Rahul Madhav Dhodapkar, David van Dijk<br/>
 International Conference on Machine Learning (ICML) 2024
 <br/>
 
