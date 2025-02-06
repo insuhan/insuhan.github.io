@@ -39,7 +39,7 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **PolarQuant: Quantizing KV Caches with Polar Transformation** <br/>
 [[paper][polarquant_paper]{:target="_blank"}]<br/>
-(α-β) <U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh
+(α-β) <U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh <br/>
 Under Review
 <br/>
 
