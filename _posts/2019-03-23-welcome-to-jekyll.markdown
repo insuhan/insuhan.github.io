@@ -37,10 +37,17 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
-**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead** <br/>
-[[paper][gjl_paper]{:target="_blank"}]<br/>
-Amir Zandieh, Majid Daliri, <U>Insu Han</U> <br/>
+**PolarQuant: Quantizing KV Caches with Polar Transformation** <br/>
+[[paper][polarquant_paper]{:target="_blank"}]<br/>
+(α-β) <U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh
 Under Review
+<br/>
+
+
+**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead** <br/>
+[[paper][gjl_paper]{:target="_blank"}][[code][qjl_code]{:target="_blank"}] <br/>
+Amir Zandieh, Majid Daliri, <U>Insu Han</U> <br/>
+The Annual AAAI Conference on Artificial Intelligence (AAAI) 2025
 <br/>
 	
 **Cell2Sentence: Teaching Large Language Models the Language of Biology** <br/>
@@ -175,6 +182,8 @@ International Conference on Machine Learning (ICML) 2015
 [hyperattn_paper]: https://arxiv.org/pdf/2310.05869.pdf
 [cell2sen_paper]: https://openreview.net/pdf?id=EWt5wsEdvc
 [gjl_paper]: https://arxiv.org/pdf/2406.03482
+[polarquant_paper]: https://arxiv.org/pdf/2502.02617
+[qjl_code]: https://github.com/amirzandieh/QJL
 
 <br/>
 ## Research experiences

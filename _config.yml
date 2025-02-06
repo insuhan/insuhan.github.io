@@ -1,6 +1,6 @@
 title: Insu Han's Homepage
 author: Insu Han
-email: insu.han@yale.edu
+email: insu.han@kaist.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
   This is Insu Han's Research Homepage.
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Insu Han
-  tagline: Yale University
+  tagline: KAIST
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: false # set to true to enable searchbar
