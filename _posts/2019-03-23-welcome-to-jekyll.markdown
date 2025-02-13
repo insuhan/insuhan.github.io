@@ -9,7 +9,7 @@ categories: intro
 ## About Me
 I am an Assistant Professor in the [School of Electrical Engineering] at KAIST (Korea Advanced Institute of Science and Technology). I was an Applied Scientist at Adobe [Firefly], and a Postdoctoral Fellow at the [Yale Institute for Foundations of Data Science] (FDS). I obtained my Ph.D. degree in the School of Electrical Engineering at KAIST, where I was advised by [Jinwoo Shin]. I received an M.S. in Electrical engineering and a B.S. in Electrical Engineering and Mathematics (minored) from KAIST.  My research interests focus on approximate algorithm design and analysis for large-scale machine learning and its applications. In 2019, I was fortunate to be a recipient of [Microsoft Research Asia Fellowship 2019]. In 2024, with Amin Karbasi and Amir Zandieh, we were selected as recipients of 2024 [Roberts Innovation Fund Award] for research on making AI more powerful and cost-effective.
 
-Here is my [CV] (Last update: Jun 2023).
+<!-- Here is my [CV] (Last update: Jun 2023). -->
 
 <br/>
 ## Contact
