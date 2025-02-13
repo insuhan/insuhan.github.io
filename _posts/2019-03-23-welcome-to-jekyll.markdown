@@ -37,9 +37,15 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**BalanceKV: KV Cache Compression through Discrepancy Theory** <br/>
+[[paper][balancekv_paper]{:target="_blank"}]<br/>
+<U>Insu Han</U>, Michael Kapralov, Ekaterina Kochetkova, Kshiteej Sheth, Amir Zandieh <br/>
+Under Review
+<br/>
+
 **PolarQuant: Quantizing KV Caches with Polar Transformation** <br/>
 [[paper][polarquant_paper]{:target="_blank"}]<br/>
-(α-β) <U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh <br/>
+<U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh <br/>
 Under Review
 <br/>
 
@@ -64,7 +70,7 @@ Under Review
 
 **HyperAttention: Long-context Attention in Near-Linear Time** <br/>
 [[paper][hyperattn_paper]{:target="_blank"}]<br/>
-(α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
+<U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
 International Conference on Learning Representations (ICLR) 2024
 <br/>
 
@@ -108,7 +114,7 @@ International Conference on Learning Representations (ICLR) 2022, Spotlight Pres
 
 **Scaling Neural Tangent Kernels via Sketching and Random Features** <br/>
 [[paper][ntk_paper]{:target="_blank"}][[code][ntk_rf_code]{:target="_blank"}]<br/>
-Amir Zandieh\*, <U>Insu Han</U>\*, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin(\*Equal contribution)<br/>
+Amir Zandieh\*, <U>Insu Han</U>\*, Haim Avron, Neta Shoham, Chaewon Kim, Jinwoo Shin (\*Equal contribution)<br/>
 Advances in Neural Information Processing Systems (NeurIPS) 2021
 <br/>
 
@@ -184,6 +190,7 @@ International Conference on Machine Learning (ICML) 2015
 [gjl_paper]: https://arxiv.org/pdf/2406.03482
 [polarquant_paper]: https://arxiv.org/pdf/2502.02617
 [qjl_code]: https://github.com/amirzandieh/QJL
+[balancekv_paper]: https://arxiv.org/pdf/2502.07861
 
 <br/>
 ## Research experiences
