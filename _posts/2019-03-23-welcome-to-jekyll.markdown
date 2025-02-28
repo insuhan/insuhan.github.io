@@ -39,13 +39,13 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 
 **BalanceKV: KV Cache Compression through Discrepancy Theory** <br/>
 [[paper][balancekv_paper]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Michael Kapralov, Ekaterina Kochetkova, Kshiteej Sheth, Amir Zandieh <br/>
+(α-β) <U>Insu Han</U>, Michael Kapralov, Ekaterina Kochetkova, Kshiteej Sheth, Amir Zandieh <br/>
 Under Review
 <br/>
 
 **PolarQuant: Quantizing KV Caches with Polar Transformation** <br/>
 [[paper][polarquant_paper]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh <br/>
+(α-β) <U>Insu Han</U>, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh <br/>
 Under Review
 <br/>
 
@@ -70,7 +70,7 @@ Under Review
 
 **HyperAttention: Long-context Attention in Near-Linear Time** <br/>
 [[paper][hyperattn_paper]{:target="_blank"}]<br/>
-<U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
+(α-β) <U>Insu Han</U>, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David P. Woodruff, Amir Zandieh<br/>
 International Conference on Learning Representations (ICLR) 2024
 <br/>
 
