@@ -37,6 +37,12 @@ I am a recipient of [Microsoft Research Asia Fellowship 2019]. <br/>
 ## Publications
 -----
 
+**CalibQuant: 1-Bit KV Cache Quantization for Multimodal LLMs** <br/>
+[[paper][calibquant_paper]{:target="_blank"}][[code][calibquant_code]{:target="_blank"}]<br/>
+<U>Insu Han</U>, Zeliang Zhang, Zhiyuan Wang, Yifan Zhu, Susan Liang, Jiani Liu, Haiting Lin, Mingjie Zhao, Chenliang Xu, Kun Wan, Wentian Zhao <br>
+Under Review
+<br/>
+
 **BalanceKV: KV Cache Compression through Discrepancy Theory** <br/>
 [[paper][balancekv_paper]{:target="_blank"}]<br/>
 (α-β) <U>Insu Han</U>, Michael Kapralov, Ekaterina Kochetkova, Kshiteej Sheth, Amir Zandieh <br/>
@@ -191,6 +197,8 @@ International Conference on Machine Learning (ICML) 2015
 [polarquant_paper]: https://arxiv.org/pdf/2502.02617
 [qjl_code]: https://github.com/amirzandieh/QJL
 [balancekv_paper]: https://arxiv.org/pdf/2502.07861
+[calibquant_paper]: https://arxiv.org/pdf/2502.14882v2
+[calibquant_code]: https://github.com/insuhan/calibquant
 
 <br/>
 ## Research experiences
